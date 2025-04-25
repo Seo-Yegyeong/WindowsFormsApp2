@@ -17,7 +17,6 @@ namespace WindowsFormsApp2
             InitializeComponent();
             MessageBox.Show("Welcome!");
             textBox_print.Text = "this is \r\na multiline \r\ntextbox!";
-            //we are in testing
         }
     }
 }
