@@ -33,10 +33,10 @@
             // 
             // textBox_print
             // 
-            this.textBox_print.Location = new System.Drawing.Point(154, 114);
+            this.textBox_print.Location = new System.Drawing.Point(187, 76);
             this.textBox_print.Multiline = true;
             this.textBox_print.Name = "textBox_print";
-            this.textBox_print.Size = new System.Drawing.Size(100, 21);
+            this.textBox_print.Size = new System.Drawing.Size(367, 267);
             this.textBox_print.TabIndex = 0;
             // 
             // Form1
